@@ -189,6 +189,10 @@ make api-ping
 
 结束主机进程后，执行 `make infra-down` 停止依赖服务。
 
+### 方式三：云端一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/MimirQ/)
+
 ### 服务地址
 
 | 服务 | 地址 |
